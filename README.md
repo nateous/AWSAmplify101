@@ -5,6 +5,13 @@ AWS Amplify CLI tools and related React/Apollo/GraphQL stack slide deck
 ## Outline
 
 1. intro slide
+1. props to host (if talk is hosted)
+   1. potential hosts
+      1. coterie
+      1. smart data lunch n learn
+   1. why you should give talks too!
+1. get philosophical
+   1. what do i hope you get out of this talk?
 1. deck overview, what will we discuss
    1. AWS Amplify CLI
       1. S3 websites
